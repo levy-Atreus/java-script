@@ -33,6 +33,9 @@ Passo 7: O resto é 0! O MDC é o último número menor, que é 6.
 
 Você pode implementar isso usando um loop while em linguagens de programação.
 
+//--------------------------------------
+
+
 Desafio 2: Encontrar o índice do maior e do menor valor em um array
 Para este desafio, você precisa percorrer o array (lista de números) e manter o controle do maior valor que encontrou até agora e do menor valor, além de seus respectivos índices (posições no array).
 
@@ -73,6 +76,9 @@ Resultado:
 Índice do maior valor: 3 (onde está o 25)
 
 Índice do menor valor: 4 (onde está o 1)
+
+//------------------------------------------
+
 
 Desafio 3: Soma dos múltiplos de 5 ou 7 abaixo de 1000
 Aqui, você precisa somar todos os números que são múltiplos de 5 ou de 7, mas cuidado para não somar duas vezes os números que são múltiplos de ambos (como 35, que é múltiplo de 5 e de 7).
