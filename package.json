@@ -1,0 +1,23 @@
+{
+  "name": "java-g-respostas",
+  "version": "1.0.0",
+  "description": "Claro! Vou resumir e simplificar os conceitos que você perguntou sobre testes e Jest:",
+  "main": "Array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levy-Atreus/java-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levy-Atreus/java-script/issues"
+  },
+  "homepage": "https://github.com/levy-Atreus/java-script#readme",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
