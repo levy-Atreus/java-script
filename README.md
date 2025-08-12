@@ -1,7 +1,5 @@
 # java-script
 
-Claro! Vou resumir e simplificar os conceitos que você perguntou sobre testes e Jest:
-
 🔬 Teste Unitário
 É como testar uma pequena peça de Lego separadamente para ter certeza de que ela funciona perfeitamente por si só. No código, essa "peça" geralmente é uma função. O objetivo é verificar se a função faz o que deveria, sem se preocupar com o resto do programa.
 
